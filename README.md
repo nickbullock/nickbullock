@@ -3,7 +3,7 @@
 My name is Nick, and
 
 - 👯 I’m passionate about web development, web platform and frontend particularly
-- 🔭 I’m a senior software engineer at Workato 
+- 🔭 I’m a senior software engineer at [Workato](https://www.workato.com/) 
 - 🌱 I’m learning Swift, systems design and leadership techniques
 - 💬 Ask me anything frontend or web related
 - 🔥 Digital nomad over the past few years
