@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**nickbullock/nickbullock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nick, and
 
-Here are some ideas to get you started:
+- 👯 I’m passionate about web development, web platform and frontend particularly
+- 🔭 I’m a senior software engineer at Workato 
+- 🌱 I’m learning Swift, systems design and leadership techniques
+- 💬 Ask me anything frontend or web related
+- 🔥 Digital nomad over the past few years
+- 😄 In love with table tennis, video games, stand up comedy and corgi
+- 📫 How to reach me: [email](balakirevnikita@yandex.ru) | [telegram](https://t.me/nickbullock)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects:
+- ⚡ [Minesweeper](https://github.com/nickbullock/minesweeper) - a classic 2d game, you better mark all the bombs or you 💥
+- ⚡ [Gravity runner](https://github.com/nickbullock/gravity-runner) - a 2d game about a guy who changes gravity
+- ⚡ [Gifster](https://github.com/nickbullock/gifster) - a chrome extension to capture gif animations from your screen
+
+## My articles
+- [A Deep Dive into @Injectable and providedIn in Ivy](https://indepth.dev/a-deep-dive-into-injectable-and-providedin-in-ivy)
+- [Requests tracking in Angular application with child module injectors without lazy loading](https://medium.com/angular-in-depth/requests-tracking-in-angular-application-with-child-module-injectors-without-lazy-loading-7227bd01d97a)
+- [How to avoid Angular injectable instances duplication](https://medium.com/angular-in-depth/how-to-avoid-angular-injectable-instances-duplication-213807c6d213)
+
+## My competitions:
+- Telegram Instant View Contest (2017) - 2nd place.
+- Telegram Javascript Coding Contest (2019) - 4th place.
+
+You can find me as `Gifted Phoenix` in Telegram contest platform.
