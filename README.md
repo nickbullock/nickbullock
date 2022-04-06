@@ -4,7 +4,7 @@ My name is Nick, and
 
 - 👯 I’m passionate about web development, web platform and frontend particularly
 - 🔭 I’m a senior software engineer at [Workato](https://www.workato.com/) 
-- 🌱 Things I want to dive deper: Swift, systems design and leadership techniques
+- 🌱 Things I want to dive deeper: Swift, systems design and leadership techniques
 - 💬 Ask me anything frontend or web related
 - 🔥 Digital nomad over the past few years
 - 😄 In love with table tennis, video games, stand up comedy and corgi
