@@ -7,7 +7,7 @@ My name is Nick, and
 - 🌱 Things I want to dive deeper: Swift, systems design and leadership techniques
 - 💬 Ask me anything frontend or web related
 - 🔥 Digital nomad over the past few years
-- 😄 In love with table tennis, video games, stand up comedy and corgi
+- 😄 In love with calisthenics, table tennis, video games, stand up comedy and corgi
 - 📫 How to reach me: [email](balakirevnikita@yandex.ru) | [telegram](https://t.me/nickbullock) | [linkedin](https://www.linkedin.com/in/nikita-balakirev/?locale=en_US)
 
 ## My projects:
